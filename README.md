@@ -1,7 +1,11 @@
 # Blog API
 
 This is a Blog API built with Django, Django REST Framework, and PostgreSQL, allowing users to perform CRUD operations on blog posts with JWT-based authentication.
-
+## Requirements
+- Python 3.x
+- Django
+- PostgreSQL
+  
 ## Setup
 
 1. Clone the repository
